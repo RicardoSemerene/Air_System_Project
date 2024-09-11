@@ -122,5 +122,4 @@ Nas próximas etapas do ciclo CRISP podem ser incrementados:
 # 8. References
 
 - A imagem de capa: [Pexels](https://www.pexels.com/pt-br/foto/caminhao-basculante-vermelho-perto-de-rochas-arquivadas-sob-ceu-nublado-1044290/)
-- O enunciado do projeto, os datasets e o gráfico introdutório são oriundos de um case feito para a empresa BIX.
 - Imagem CRISP: [Arte dos Dados](https://artedosdados.blogspot.com/2013/12/mineracao-de-dados-e-o-crisp-dm-data.html)
